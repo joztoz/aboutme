@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .border-3px {
+      border-width: 3px;
+    }
+    .rounded-25em {
+        border-radius: 2.5em;
+      }
+  }
