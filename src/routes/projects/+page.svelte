@@ -23,7 +23,7 @@
                 <!-- END dropdown menu -->
             </div>
             <div class="flex flex-col items-center pb-10">
-                <img class=" mb-3 shadow-lg" src="./src/assets/trulo.png" alt="Trello copy image"/>
+                <img class=" mb-3 shadow-lg" src="../src/assets/trulo.png" alt="Trello copy image"/>
                 <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-white">
                     Trello dizajn - "Trullo"
                 </h5>
@@ -58,7 +58,7 @@
                 <!-- END dropdown menu -->
             </div>
             <div class="flex flex-col items-center pb-10">
-                <img class=" mb-3 shadow-lg" src="./src/assets/hamingway.gif" alt="hamingway image"/>
+                <img class=" mb-3 shadow-lg" src="../src/assets/hamingway.gif" alt="hamingway image"/>
                 <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-white">Hamingway</h5>
                 <span class="text-sm text-gray-500 dark:text-gray-400 px-10 text-center">
                     kurz svelte - rotátor hamingwayových poviedok s využitím local storage
@@ -91,7 +91,7 @@
                 <!-- END dropdown menu -->
             </div>
             <div class="flex flex-col items-center pb-10">
-                <img class=" mb-3 shadow-lg" src="./src/assets/crave.png" alt="hamingway image"/>
+                <img class=" mb-3 shadow-lg" src="../src/assets/crave.png" alt="hamingway image"/>
                 <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-white">Webrebel reborn</h5>
                 <span class="text-sm text-gray-500 dark:text-gray-400 px-10 text-center">
                     HTML a CSS responzívna single page s Parallax efektom od styler.cloud
@@ -124,7 +124,7 @@
                 <!-- END dropdown menu -->
             </div>
             <div class="flex flex-col items-center pb-10">
-                <img class=" mb-3 shadow-lg" src="./src/assets/reminders.png" alt="reminders image"/>
+                <img class=" mb-3 shadow-lg" src="../src/assets/reminders.png" alt="reminders image"/>
                 <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-white">
                     HTML a CSS kurz 
                 </h5>
@@ -160,7 +160,7 @@
                 <!-- END dropdown menu -->
             </div>
             <div class="flex flex-col items-center pb-10">
-                <img class=" mb-3 shadow-lg" src="./src/assets/tunes.png" alt="tunes app image"/>
+                <img class=" mb-3 shadow-lg" src="../src/assets/tunes.png" alt="tunes app image"/>
                 <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-white">
                     Angular kurz
                 </h5>
@@ -195,7 +195,7 @@
                 <!-- END dropdown menu -->
             </div>
             <div class="flex flex-col items-center pb-10">
-                <img class=" mb-3 shadow-lg" src="./src/assets/dudes.png" alt="dudes app image"/>
+                <img class=" mb-3 shadow-lg" src="../src/assets/dudes.png" alt="dudes app image"/>
                 <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-white">
                     Angular kurz - responzivita
                 </h5>
@@ -230,7 +230,7 @@
                 <!-- END dropdown menu -->
             </div>
             <div class="flex flex-col items-center pb-10">
-                <img class=" mb-3 shadow-lg" src="./src/assets/trulo.png" alt="kniha image"/>
+                <img class=" mb-3 shadow-lg" src="../src/assets/trulo.png" alt="kniha image"/>
                 <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-white">
                     Prezentačná stránka ku knihe
                 </h5>
