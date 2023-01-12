@@ -3,7 +3,7 @@ module.exports = {
   purge: ['./src/**/*.svelte', './src/**/*.css'],
   darkMode: false,
   content: [
-    "./src/**/*.{html,js,svelte,ts}",
+    "./src/**/*.{html,js,svelte,ts,png}",
     "./node_modules/flowbite-svelte/**/*.{html,js,svelte,ts}",
   ],
   theme: {

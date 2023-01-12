@@ -1,4 +1,12 @@
-<script src="https://unpkg.com/flowbite@1.6.0/dist/flowbite.min.js"></script>
+<script>
+    import reminders from "./src/assets/reminders.png"; 
+    import crave from "./src/assets/crave.png"; 
+    import trulo from "./src/assets/trulo.png"; 
+    import dudes from "./src/assets/dudes.png"; 
+    import tunes from "./src/assets/tunes.png"; 
+    import hamingway from "./src/assets/hamingway.gif"; 
+</script>
+
 
 <div class="flex flex-wrap gap-4 justify-center">
     <figure>
